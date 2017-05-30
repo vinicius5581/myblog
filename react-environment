@@ -1,0 +1,19 @@
+# Setup a react environment with webpack 2
+
+## Pre-requisites
+
+
+## Getting Started
+
+
+
+
+package.json
+
+
+
+
+.babelrc
+.eslintrc
+.jestrc
+.npmrc
